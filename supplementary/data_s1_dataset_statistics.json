@@ -1,0 +1,86 @@
+{
+  "dataset_info": {
+    "total_molecules": 1014,
+    "training_molecules": 709,
+    "validation_molecules": 152,
+    "test_molecules": 153,
+    "external_validation_molecules": 241,
+    "generation_date": "2025-10-18 18:16:21"
+  },
+  "target_distribution": {
+    "Kinase": 450,
+    "GPCR": 217,
+    "Protease": 347
+  },
+  "descriptor_statistics": {
+    "MW": {
+      "min": 180.20699999999997,
+      "max": 361.44800000000004,
+      "mean": 231.09358382642998,
+      "std": 33.035679341556154,
+      "median": 220.27499999999998
+    },
+    "logP": {
+      "min": -0.9296999999999978,
+      "max": 4.885400000000003,
+      "mean": 1.9280793491124264,
+      "std": 1.2938429132054998,
+      "median": 1.7704000000000002
+    },
+    "TPSA": {
+      "min": 21.700000000000003,
+      "max": 136.02,
+      "mean": 58.61789940828402,
+      "std": 23.50269392103055,
+      "median": 55.400000000000006
+    },
+    "HBD": {
+      "min": 0.0,
+      "max": 4.0,
+      "mean": 1.7209072978303748,
+      "std": 0.8886788031059525,
+      "median": 2.0
+    },
+    "HBA": {
+      "min": 1.0,
+      "max": 8.0,
+      "mean": 2.8629191321499015,
+      "std": 1.1380287070083774,
+      "median": 3.0
+    },
+    "nRotB": {
+      "min": 1.0,
+      "max": 9.0,
+      "mean": 3.101577909270217,
+      "std": 1.5310338451807688,
+      "median": 3.0
+    },
+    "nArom": {
+      "min": 0.0,
+      "max": 3.0,
+      "mean": 1.509861932938856,
+      "std": 1.0436672096469317,
+      "median": 1.0
+    }
+  },
+  "activity_statistics": {
+    "pActivity_range": [
+      5.980550134839701,
+      9.0
+    ],
+    "pActivity_mean": 7.743135448489877,
+    "pActivity_std": 0.664152977119664,
+    "Ki_range_M": [
+      1e-09,
+      1.0142818881801122e-06
+    ],
+    "Ki_range_nM": [
+      1.0,
+      1014.2818881801121
+    ]
+  },
+  "chemical_diversity": {
+    "unique_scaffolds": 276,
+    "unique_clusters": 183
+  }
+}
