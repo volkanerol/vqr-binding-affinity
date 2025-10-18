@@ -1,0 +1,5 @@
+Ensemble_Type,Best_Combination,Best_Strategy,R2,MSE,MAE,Improvement,p-value
+2-Model,VQR + GBM,Stacking (Ridge),0.919 ± 0.007,0.053 ± 0.006,0.183 ± 0.015,+4.6%,p<0.001
+3-Model,VQR + RF + GBM,Stacking (XGBoost),0.928 ± 0.006,0.047 ± 0.005,0.174 ± 0.013,+6.2%,p<0.001
+4-Model,VQR + SVR + RF + GBM,Stacking (Ridge),0.929 ± 0.006,0.047 ± 0.005,0.173 ± 0.013,+6.4%,p<0.001
+5-Model,VQR + SVR + RF + GBM + NN,Stacking (Ridge),0.927 ± 0.006,0.048 ± 0.005,0.175 ± 0.014,+6.0%,p<0.001
