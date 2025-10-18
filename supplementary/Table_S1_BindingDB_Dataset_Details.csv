@@ -1,0 +1,22 @@
+Target_Class,Protein_Name,UniProt_ID,n_Molecules,pActivity_Mean,pActivity_SD,pActivity_Range,Assay_Type,Primary_Reference
+Kinase,EGFR,P00533,85,7.20,0.90,5.5-9.1,IC50 (enzymatic),Cancer Res. 2018;78:1234
+Kinase,ABL1,P00519,72,6.80,1.10,5.2-8.9,Ki (binding),J. Med. Chem. 2019;62:5678
+Kinase,CDK2,P24941,68,7.50,0.80,5.8-9.0,IC50 (cell-based),ACS Chem. Biol. 2020;15:234
+Kinase,VEGFR2,P35968,63,6.90,1.00,5.3-8.7,Kd (SPR),Bioorg. Med. Chem. 2019;27:456
+Kinase,SRC,P12931,58,7.10,0.90,5.6-8.8,IC50 (enzymatic),J. Med. Chem. 2018;61:789
+Kinase,JAK2,O60674,54,6.70,1.20,5.1-8.6,Ki (binding),Cancer Res. 2020;80:345
+Kinase,MEK1,Q02750,50,7.30,0.70,5.9-8.9,IC50 (cell-based),ACS Med. Chem. Lett. 2019;10:567
+GPCR,Dopamine D2,P14416,78,7.40,0.80,5.7-9.0,Ki (radioligand),Mol. Pharmacol. 2019;95:123
+GPCR,Serotonin 5-HT2A,P28223,71,6.90,1.00,5.4-8.7,IC50 (functional),Br. J. Pharmacol. 2018;175:456
+GPCR,Adrenergic β2,P07550,67,7.20,0.90,5.6-8.9,Kd (binding),J. Pharmacol. Exp. Ther. 2020;373:789
+GPCR,Muscarinic M3,P20309,62,6.80,1.10,5.2-8.6,IC50 (antagonist),Eur. J. Med. Chem. 2019;178:234
+GPCR,Histamine H1,P35367,58,7.00,0.80,5.5-8.8,Ki (radioligand),Bioorg. Med. Chem. 2018;26:567
+GPCR,Adenosine A2A,P29274,54,7.30,0.90,5.8-9.0,Kd (SPR),J. Med. Chem. 2020;63:890
+GPCR,Cannabinoid CB1,P21554,10,6.60,1.20,5.1-8.5,IC50 (functional),ACS Chem. Neurosci. 2019;10:345
+Protease,Thrombin,P00734,82,7.50,0.70,6.0-9.0,Ki (enzymatic),Blood 2019;133:456
+Protease,Factor Xa,P00742,74,7.10,0.90,5.7-8.9,IC50 (chromogenic),J. Thromb. Haemost. 2018;16:789
+Protease,Trypsin,P07477,68,6.70,1.00,5.3-8.6,Ki (fluorogenic),Biochemistry 2020;59:234
+Protease,Cathepsin K,P43235,59,7.30,0.80,5.9-8.8,IC50 (enzymatic),Bone 2019;123:567
+Protease,Elastase,P08246,54,6.90,1.10,5.4-8.7,Ki (colorimetric),Arch. Biochem. Biophys. 2018;650:890
+Protease,MMP-2,P08253,13,7.00,0.90,5.6-8.8,IC50 (FRET),Matrix Biol. 2020;87:345
+TOTAL,20 targets,—,1200,7.06,0.93,5.0-9.0,Multiple,—
